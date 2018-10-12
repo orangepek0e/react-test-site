@@ -1,0 +1,33 @@
+header {
+  display: block;
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  color: white;
+}
+
+#headerButtons {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0px 0px 0px 22px;
+  list-style-type: none;
+  margin: 0;
+}
+
+.navButton {
+  font-size: 18px;
+}
+
+.homePage {
+  height: 100vh;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: white;
+}
